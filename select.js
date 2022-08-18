@@ -1,1 +1,0 @@
-document.getElementsByTagName('select')[0].value = "lime";
